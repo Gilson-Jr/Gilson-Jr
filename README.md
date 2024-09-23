@@ -3,8 +3,6 @@
 
 - 🌱 Atualmente estou aprendendo **Power BI e SQL server**
 
-- 👯 Estou trabalhando na empresa Mulvi [https://mulvi.com.br/](https://mulvi.com.br/)
-
 - 💬 Pergunte-me sobre **Power BI, EXCEL e SQL **
 
 - 📫 Você me acha através do e-mail **junior.santos.03@hotmail.com**
